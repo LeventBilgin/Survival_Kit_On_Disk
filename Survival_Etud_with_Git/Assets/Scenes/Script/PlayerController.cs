@@ -16,6 +16,8 @@ namespace scenes.script
         void Update()
         {
         // player controller refererance'larini cachelendigi degiskenleri kullanir.
+        
+        // Script e Yeni Satir Eklendi "GitHub Modify Ozellingini Gormek Amaci Ile..
         }
     }
 
